@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Work Space\GitCode\mvp-utils-library\library_ui\library_ui.iml" filepath="D:\Work Space\GitCode\mvp-utils-library\library_ui\library_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_utils/library_utils.iml" filepath="$PROJECT_DIR$/library_utils/library_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-utils-library.iml" filepath="$PROJECT_DIR$/mvp-utils-library.iml" />
+    </modules>
+  </component>
+</project>
