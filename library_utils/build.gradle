@@ -1,16 +1,14 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 android {
-    compileSdkVersion 26
-
+    compileSdkVersion rootProject.ext.android["compileSdkVersion"]
 
 
     defaultConfig {
-        minSdkVersion 15
-        targetSdkVersion 26
-        versionCode 101
-        versionName "v0.1alpha"
-
+        minSdkVersion rootProject.ext.android["minSdkVersion"]
+        targetSdkVersion rootProject.ext.android["targetSdkVersion"]
+        versionCode 110
+        versionName "v0.11alpha"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }
